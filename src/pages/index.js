@@ -14,7 +14,9 @@ const IndexPage = () => (
     </p>
     <p>If you're hiring, please let me know.</p>
     <a href="mailto:katiefujihara@gmail.com">Email</a>
+    <br />
     <a href="https://www.katiefujihara.com">Website</a>
+    <br />
     <iframe
       src="https://giphy.com/embed/l41YyrSMvJAwQ57u8"
       width="480"
