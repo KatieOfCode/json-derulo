@@ -1,6 +1,5 @@
 import styles from "../styles.css"
 import React from "react"
-import App from "../components/App"
 
 const IndexPage = () => (
   <div>
